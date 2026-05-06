@@ -1,0 +1,501 @@
+brand,name,type,size,stock_units,last_import_date,days_since_import,status
+TH True Milk,Milk,Low fat,5L,213,2024-04-16,15,Active
+Sabeco,Soft drink,Green tea,200g,846,2023-01-21,466,Dead stock
+Tan Hiep Phat,Cooking oil,Vegan,100g,323,2024-02-04,87,Active
+Neptune,Soft drink,Orange soda,180ml,268,2024-03-11,51,Active
+Vinamilk,Soft drink,Lemon soda,5L,962,2023-10-13,201,Dead stock
+Orion,Cooking oil,Vegan,500ml,94,2024-03-12,50,Active
+Sabeco,Instant noodle,Beef,5L,219,2024-03-04,58,Active
+Orion,Cooking oil,Olive,500ml,143,2024-02-26,65,Active
+Tan Hiep Phat,Candy,Hard candy,1L,317,2024-01-09,113,Slow moving
+Coca-Cola,Soft drink,Green tea,500g,138,2023-11-04,179,Slow moving
+TH True Milk,Candy,Fruit flavored,100g,396,2024-04-22,9,Active
+Tan Hiep Phat,Instant noodle,Spicy,100g,308,2024-03-27,35,Active
+Nestle,Milk,Unsweetened,330ml,1128,2023-05-30,337,Dead stock
+Kinh Do,Milk,Vegan,500ml,256,2024-03-04,58,Active
+Bibica,Soft drink,Energy drink,200g,252,2024-02-18,73,Active
+Nestle,Milk,Sweetened,500g,878,2023-10-06,208,Dead stock
+Coca-Cola,Cooking oil,Olive,5L,69,2024-03-22,40,Active
+Vinamilk,Instant noodle,Vegetarian,500g,336,2024-03-31,31,Active
+Pepsi,Milk,Sweetened,180ml,445,2023-06-27,309,Dead stock
+Vinamilk,Candy,Hard candy,500ml,1140,2023-10-10,204,Dead stock
+Pepsi,Cooking oil,Vegetable,5L,1098,2023-06-21,315,Dead stock
+Sabeco,Instant noodle,Spicy,200g,175,2024-02-24,67,Active
+Sabeco,Candy,Chocolate,5L,249,2024-03-15,47,Active
+Sabeco,Candy,Fruit flavored,5L,303,2023-12-06,147,Slow moving
+Kinh Do,Milk,Condensed,1L,1034,2023-08-01,274,Dead stock
+TH True Milk,Cooking oil,Sunflower,180ml,136,2024-02-17,74,Active
+Masan,Milk,Condensed,380g,535,2023-10-29,185,Dead stock
+Coca-Cola,Instant noodle,Spicy,100g,451,2023-09-27,217,Dead stock
+Orion,Milk,Condensed,380g,221,2024-02-28,63,Active
+Sabeco,Instant noodle,Vegetarian,5L,963,2023-08-07,268,Dead stock
+Nestle,Soft drink,Energy drink,100g,661,2023-08-17,258,Dead stock
+Nestle,Soft drink,Energy drink,200g,573,2023-03-13,415,Dead stock
+Kinh Do,Cooking oil,Vegetable,100g,339,2024-02-29,62,Active
+Coca-Cola,Candy,Gummy,180ml,300,2024-03-28,34,Active
+TH True Milk,Milk,Unsweetened,500ml,138,2024-02-16,75,Active
+Orion,Soft drink,Lemon soda,100g,169,2024-04-01,30,Active
+Tan Hiep Phat,Candy,Chocolate,200g,1160,2023-08-30,245,Dead stock
+Kinh Do,Milk,Unsweetened,2L,523,2023-02-11,445,Dead stock
+Tan Hiep Phat,Instant noodle,Beef,500ml,814,2023-09-05,239,Dead stock
+Coca-Cola,Candy,Chocolate,500g,373,2023-08-02,273,Dead stock
+Pepsi,Milk,Unsweetened,500ml,514,2023-07-12,294,Dead stock
+TH True Milk,Soft drink,Green tea,2L,877,2023-04-21,376,Dead stock
+Kinh Do,Milk,Sweetened,380g,752,2023-02-11,445,Dead stock
+Bibica,Candy,Chocolate,50g,68,2024-03-11,51,Active
+TH True Milk,Soft drink,Orange soda,330ml,187,2024-01-26,96,Slow moving
+Kinh Do,Cooking oil,Sunflower,100g,118,2024-02-26,65,Active
+Masan,Cooking oil,Sunflower,500g,167,2024-03-23,39,Active
+Neptune,Cooking oil,Olive,180ml,238,2024-04-19,12,Active
+Tan Hiep Phat,Milk,Condensed,1L,906,2023-05-26,341,Dead stock
+Tan Hiep Phat,Candy,Hard candy,50g,300,2024-02-14,77,Active
+Sabeco,Milk,Condensed,500ml,1193,2023-09-09,235,Dead stock
+Coca-Cola,Candy,Fruit flavored,200g,541,2023-07-07,299,Dead stock
+Masan,Cooking oil,Vegan,200g,67,2024-01-21,101,Slow moving
+Neptune,Candy,Gummy,330ml,223,2024-02-15,76,Active
+Orion,Soft drink,Orange soda,5L,309,2023-12-19,134,Slow moving
+Tan Hiep Phat,Candy,Hard candy,330ml,336,2024-03-20,42,Active
+Nestle,Instant noodle,Vegetarian,1L,1154,2023-09-15,229,Dead stock
+Coca-Cola,Cooking oil,Olive,200g,343,2024-02-22,69,Active
+Coca-Cola,Milk,Low fat,1L,247,2024-03-24,38,Active
+Vinamilk,Milk,Vegan,330ml,527,2023-07-14,292,Dead stock
+Sabeco,Soft drink,Green tea,200g,1054,2023-06-13,323,Dead stock
+Coca-Cola,Candy,Gummy,330ml,961,2023-04-09,388,Dead stock
+Tan Hiep Phat,Instant noodle,Vegetarian,500g,101,2024-02-16,75,Active
+TH True Milk,Milk,Unsweetened,5L,213,2024-03-15,47,Active
+Coca-Cola,Soft drink,Cola,330ml,253,2024-04-19,12,Active
+Masan,Cooking oil,Vegetable,200g,298,2023-12-31,122,Slow moving
+Kinh Do,Candy,Gummy,1L,213,2024-04-01,30,Active
+Coca-Cola,Instant noodle,Spicy,380g,256,2024-02-15,76,Active
+Kinh Do,Instant noodle,Vegetarian,2L,954,2023-05-08,359,Dead stock
+Orion,Milk,Sweetened,330ml,204,2024-03-13,49,Active
+Pepsi,Instant noodle,Spicy,1L,174,2024-04-20,11,Active
+Kinh Do,Soft drink,Lemon soda,50g,891,2023-05-02,365,Dead stock
+Masan,Instant noodle,Chicken,180ml,397,2024-02-24,67,Active
+Sabeco,Milk,Condensed,180ml,263,2023-12-24,129,Slow moving
+Vinamilk,Milk,Condensed,100g,59,2024-01-24,98,Slow moving
+TH True Milk,Instant noodle,Chicken,180ml,207,2023-12-27,126,Slow moving
+Orion,Milk,Vegan,330ml,368,2024-03-01,61,Active
+TH True Milk,Soft drink,Lemon soda,2L,248,2024-03-04,58,Active
+Neptune,Cooking oil,Sunflower,2L,852,2023-10-18,196,Dead stock
+Bibica,Candy,Fruit flavored,500ml,166,2024-02-02,89,Active
+Kinh Do,Candy,Chocolate,100g,1053,2023-07-14,292,Dead stock
+Bibica,Candy,Chocolate,5L,286,2024-04-10,21,Active
+Tan Hiep Phat,Soft drink,Lemon soda,2L,78,2024-02-04,87,Active
+Coca-Cola,Cooking oil,Vegetable,2L,104,2023-11-05,178,Slow moving
+Bibica,Soft drink,Lemon soda,1L,652,2023-06-16,320,Dead stock
+Pepsi,Soft drink,Cola,500g,1195,2022-12-23,495,Dead stock
+Nestle,Candy,Hard candy,330ml,320,2024-02-25,66,Active
+Sabeco,Cooking oil,Olive,50g,350,2024-03-05,57,Active
+Sabeco,Candy,Hard candy,5L,750,2023-08-11,264,Dead stock
+Nestle,Cooking oil,Vegetable,100g,193,2023-11-26,157,Slow moving
+Vinamilk,Instant noodle,Chicken,100g,593,2023-04-29,368,Dead stock
+TH True Milk,Soft drink,Cola,180ml,271,2024-03-17,45,Active
+Coca-Cola,Soft drink,Orange soda,500ml,492,2023-05-17,350,Dead stock
+Orion,Milk,Condensed,200g,1125,2023-04-01,396,Dead stock
+Kinh Do,Instant noodle,Beef,500ml,219,2024-02-20,71,Active
+Tan Hiep Phat,Cooking oil,Sunflower,500ml,328,2024-02-15,76,Active
+Kinh Do,Milk,Condensed,1L,310,2024-01-01,121,Slow moving
+Sabeco,Soft drink,Lemon soda,200g,366,2024-03-15,47,Active
+Masan,Soft drink,Green tea,380g,371,2023-12-17,136,Slow moving
+Coca-Cola,Milk,Unsweetened,500g,372,2023-11-23,160,Slow moving
+Vinamilk,Candy,Gummy,180ml,248,2024-03-07,55,Active
+Pepsi,Instant noodle,Vegetarian,100g,145,2024-04-01,30,Active
+Nestle,Candy,Hard candy,380g,378,2024-04-22,9,Active
+Vinamilk,Soft drink,Green tea,500g,379,2024-04-12,19,Active
+Sabeco,Instant noodle,Spicy,100g,239,2024-03-08,54,Active
+Nestle,Soft drink,Cola,1L,274,2024-02-27,64,Active
+Coca-Cola,Instant noodle,Beef,1L,195,2024-01-28,94,Slow moving
+Neptune,Candy,Gummy,500ml,623,2023-03-28,400,Dead stock
+TH True Milk,Cooking oil,Olive,2L,346,2023-11-18,165,Slow moving
+Coca-Cola,Candy,Gummy,50g,1107,2023-06-16,320,Dead stock
+Tan Hiep Phat,Candy,Hard candy,500g,100,2024-04-14,17,Active
+Pepsi,Instant noodle,Vegetarian,200g,323,2023-10-06,208,Dead stock
+Orion,Milk,Vegan,330ml,282,2023-11-15,168,Slow moving
+Nestle,Instant noodle,Chicken,330ml,137,2024-03-16,46,Active
+Coca-Cola,Candy,Gummy,200g,286,2024-02-29,62,Active
+Tan Hiep Phat,Cooking oil,Sunflower,1L,919,2023-06-22,314,Dead stock
+Sabeco,Instant noodle,Beef,380g,323,2024-03-19,43,Active
+Sabeco,Soft drink,Green tea,1L,373,2023-02-19,437,Dead stock
+Sabeco,Soft drink,Cola,380g,262,2024-04-06,25,Active
+Pepsi,Milk,Sweetened,500ml,277,2024-03-09,53,Active
+Coca-Cola,Candy,Gummy,200g,1147,2023-06-28,308,Dead stock
+Masan,Cooking oil,Sunflower,5L,362,2024-02-06,85,Active
+Kinh Do,Instant noodle,Vegetarian,5L,303,2024-02-20,71,Active
+Sabeco,Instant noodle,Spicy,330ml,882,2023-09-22,222,Dead stock
+Pepsi,Milk,Sweetened,50g,91,2024-01-07,115,Slow moving
+Masan,Milk,Sweetened,100g,1081,2023-05-26,341,Dead stock
+Nestle,Candy,Chocolate,200g,261,2024-02-23,68,Active
+TH True Milk,Candy,Chocolate,50g,357,2024-03-10,52,Active
+TH True Milk,Soft drink,Energy drink,180ml,265,2024-04-20,11,Active
+Orion,Candy,Gummy,180ml,1120,2023-05-10,357,Dead stock
+TH True Milk,Soft drink,Orange soda,180ml,249,2024-02-22,69,Active
+Coca-Cola,Instant noodle,Spicy,50g,238,2024-04-02,29,Active
+Orion,Soft drink,Green tea,50g,248,2024-01-10,112,Slow moving
+Kinh Do,Candy,Fruit flavored,330ml,129,2024-04-04,27,Active
+Vinamilk,Instant noodle,Beef,50g,107,2024-02-23,68,Active
+Nestle,Soft drink,Orange soda,500g,1069,2023-04-22,375,Dead stock
+Tan Hiep Phat,Instant noodle,Chicken,500g,52,2024-02-12,79,Active
+Coca-Cola,Cooking oil,Sunflower,5L,465,2023-08-28,247,Dead stock
+Bibica,Soft drink,Green tea,180ml,104,2024-02-11,80,Active
+Vinamilk,Candy,Chocolate,500ml,465,2023-04-07,390,Dead stock
+Masan,Cooking oil,Vegetable,380g,276,2024-04-22,9,Active
+Bibica,Milk,Low fat,500g,606,2023-07-02,304,Dead stock
+Orion,Candy,Hard candy,200g,344,2024-03-26,36,Active
+Neptune,Candy,Gummy,330ml,116,2024-04-06,25,Active
+Nestle,Cooking oil,Vegan,330ml,270,2024-03-08,54,Active
+Nestle,Milk,Unsweetened,180ml,738,2023-08-17,258,Dead stock
+Kinh Do,Instant noodle,Spicy,180ml,79,2024-01-05,117,Slow moving
+Sabeco,Candy,Hard candy,2L,372,2023-12-30,123,Slow moving
+Kinh Do,Soft drink,Energy drink,330ml,382,2024-01-19,103,Slow moving
+Coca-Cola,Instant noodle,Vegetarian,500ml,435,2023-07-05,301,Dead stock
+Nestle,Candy,Gummy,5L,221,2024-03-15,47,Active
+Orion,Milk,Sweetened,380g,510,2023-09-29,215,Dead stock
+Pepsi,Cooking oil,Vegetable,100g,399,2023-11-24,159,Slow moving
+Bibica,Candy,Hard candy,1L,67,2024-03-24,38,Active
+Sabeco,Instant noodle,Spicy,50g,307,2024-02-12,79,Active
+Pepsi,Instant noodle,Beef,5L,289,2024-03-08,54,Active
+Bibica,Cooking oil,Sunflower,380g,132,2024-02-16,75,Active
+Bibica,Cooking oil,Sunflower,500g,399,2024-01-26,96,Slow moving
+Orion,Instant noodle,Chicken,330ml,159,2024-02-22,69,Active
+Masan,Cooking oil,Sunflower,100g,263,2024-03-04,58,Active
+Nestle,Soft drink,Lemon soda,200g,72,2023-11-28,155,Slow moving
+Coca-Cola,Cooking oil,Vegetable,180ml,75,2024-01-09,113,Slow moving
+Vinamilk,Soft drink,Lemon soda,200g,131,2024-03-04,58,Active
+TH True Milk,Instant noodle,Beef,5L,179,2023-11-14,169,Slow moving
+Tan Hiep Phat,Candy,Hard candy,180ml,396,2024-04-10,21,Active
+Neptune,Instant noodle,Beef,100g,228,2024-03-30,32,Active
+Nestle,Soft drink,Green tea,1L,87,2024-02-06,85,Active
+Neptune,Instant noodle,Beef,100g,346,2024-03-04,58,Active
+Tan Hiep Phat,Instant noodle,Vegetarian,330ml,702,2023-09-16,228,Dead stock
+TH True Milk,Milk,Sweetened,5L,180,2024-04-23,8,Active
+TH True Milk,Cooking oil,Olive,500g,209,2023-11-22,161,Slow moving
+Tan Hiep Phat,Instant noodle,Beef,380g,281,2024-02-06,85,Active
+Pepsi,Candy,Gummy,2L,332,2024-04-19,12,Active
+Bibica,Cooking oil,Vegan,500ml,80,2024-04-06,25,Active
+Kinh Do,Milk,Condensed,200g,670,2023-05-07,360,Dead stock
+Bibica,Milk,Condensed,50g,423,2023-04-20,377,Dead stock
+Neptune,Instant noodle,Beef,50g,158,2023-11-25,158,Slow moving
+Nestle,Soft drink,Energy drink,200g,72,2023-11-09,174,Slow moving
+Nestle,Instant noodle,Chicken,500ml,331,2023-12-19,134,Slow moving
+Pepsi,Cooking oil,Vegetable,200g,197,2024-03-17,45,Active
+Orion,Cooking oil,Vegan,500ml,251,2024-03-31,31,Active
+TH True Milk,Cooking oil,Sunflower,200g,262,2024-02-26,65,Active
+Tan Hiep Phat,Cooking oil,Vegan,180ml,353,2024-04-12,19,Active
+Pepsi,Cooking oil,Vegan,380g,312,2023-12-04,149,Slow moving
+Nestle,Cooking oil,Vegan,50g,681,2023-07-13,293,Dead stock
+Orion,Candy,Hard candy,500g,169,2024-03-23,39,Active
+Pepsi,Soft drink,Cola,180ml,385,2024-03-16,46,Active
+Kinh Do,Cooking oil,Sunflower,180ml,636,2023-06-21,315,Dead stock
+Vinamilk,Cooking oil,Sunflower,2L,202,2023-12-10,143,Slow moving
+TH True Milk,Milk,Sweetened,380g,311,2023-03-20,408,Dead stock
+Kinh Do,Candy,Hard candy,380g,1172,2023-07-17,289,Dead stock
+Nestle,Cooking oil,Vegetable,1L,166,2024-03-11,51,Active
+Pepsi,Candy,Fruit flavored,2L,331,2024-02-04,87,Active
+Coca-Cola,Cooking oil,Sunflower,500ml,386,2023-04-01,396,Dead stock
+Bibica,Instant noodle,Chicken,500g,189,2024-04-10,21,Active
+Bibica,Instant noodle,Chicken,330ml,172,2024-03-18,44,Active
+Pepsi,Milk,Vegan,50g,610,2023-07-19,287,Dead stock
+Bibica,Milk,Sweetened,5L,269,2024-01-15,107,Slow moving
+Tan Hiep Phat,Soft drink,Lemon soda,100g,707,2023-04-20,377,Dead stock
+Vinamilk,Milk,Low fat,100g,212,2024-04-19,12,Active
+Pepsi,Cooking oil,Olive,1L,149,2024-03-15,47,Active
+Masan,Soft drink,Green tea,1L,958,2023-10-15,199,Dead stock
+Coca-Cola,Milk,Sweetened,5L,137,2024-03-19,43,Active
+Tan Hiep Phat,Cooking oil,Vegan,500ml,307,2024-03-26,36,Active
+Nestle,Soft drink,Cola,500ml,521,2022-12-19,499,Dead stock
+Coca-Cola,Instant noodle,Beef,200g,125,2024-02-10,81,Active
+Coca-Cola,Instant noodle,Chicken,5L,283,2024-03-19,43,Active
+Sabeco,Milk,Condensed,500g,59,2023-12-23,130,Slow moving
+Bibica,Milk,Sweetened,380g,312,2024-02-27,64,Active
+Masan,Soft drink,Cola,200g,256,2023-11-15,168,Slow moving
+Vinamilk,Instant noodle,Vegetarian,1L,116,2024-04-02,29,Active
+Orion,Soft drink,Cola,5L,302,2024-01-30,92,Slow moving
+Sabeco,Milk,Condensed,180ml,287,2023-12-09,144,Slow moving
+Orion,Candy,Fruit flavored,5L,301,2024-04-16,15,Active
+Sabeco,Milk,Unsweetened,1L,564,2023-06-25,311,Dead stock
+Bibica,Soft drink,Cola,2L,724,2023-07-21,285,Dead stock
+Bibica,Instant noodle,Spicy,100g,90,2024-03-03,59,Active
+Nestle,Soft drink,Lemon soda,5L,680,2023-09-26,218,Dead stock
+Kinh Do,Cooking oil,Sunflower,50g,51,2023-12-01,152,Slow moving
+Pepsi,Soft drink,Green tea,500g,391,2023-12-24,129,Slow moving
+Bibica,Cooking oil,Olive,5L,311,2024-01-24,98,Slow moving
+TH True Milk,Cooking oil,Vegetable,500ml,866,2023-10-15,199,Dead stock
+Nestle,Milk,Condensed,200g,323,2023-05-28,339,Dead stock
+Nestle,Candy,Gummy,2L,53,2023-12-08,145,Slow moving
+Vinamilk,Instant noodle,Beef,180ml,227,2024-02-02,89,Active
+Coca-Cola,Candy,Hard candy,100g,130,2024-03-03,59,Active
+Pepsi,Cooking oil,Sunflower,5L,1065,2023-07-15,291,Dead stock
+Nestle,Cooking oil,Vegetable,1L,344,2024-03-18,44,Active
+Masan,Soft drink,Cola,1L,160,2023-11-13,170,Slow moving
+Tan Hiep Phat,Instant noodle,Spicy,1L,317,2024-03-24,38,Active
+Tan Hiep Phat,Milk,Vegan,500ml,416,2023-05-06,361,Dead stock
+Masan,Instant noodle,Chicken,100g,361,2023-12-24,129,Slow moving
+Coca-Cola,Milk,Sweetened,500ml,163,2024-03-07,55,Active
+Pepsi,Milk,Vegan,330ml,73,2024-02-27,64,Active
+Sabeco,Cooking oil,Vegan,5L,110,2024-03-13,49,Active
+Orion,Cooking oil,Sunflower,100g,210,2023-12-03,150,Slow moving
+Nestle,Instant noodle,Vegetarian,200g,764,2023-09-07,237,Dead stock
+TH True Milk,Instant noodle,Vegetarian,200g,355,2023-10-13,201,Dead stock
+Tan Hiep Phat,Soft drink,Green tea,200g,76,2024-04-17,14,Active
+Kinh Do,Instant noodle,Vegetarian,100g,250,2024-04-06,25,Active
+Sabeco,Cooking oil,Olive,180ml,202,2024-01-01,121,Slow moving
+Pepsi,Milk,Condensed,200g,60,2024-04-08,23,Active
+TH True Milk,Soft drink,Orange soda,200g,627,2023-09-29,215,Dead stock
+Neptune,Cooking oil,Olive,2L,63,2024-04-23,8,Active
+Masan,Soft drink,Energy drink,180ml,321,2023-07-22,284,Dead stock
+Kinh Do,Instant noodle,Spicy,2L,186,2024-04-01,30,Active
+Coca-Cola,Instant noodle,Chicken,330ml,348,2024-02-08,83,Active
+TH True Milk,Instant noodle,Beef,100g,307,2024-03-30,32,Active
+Sabeco,Candy,Fruit flavored,2L,102,2023-12-31,122,Slow moving
+Nestle,Soft drink,Green tea,330ml,359,2024-02-12,79,Active
+Orion,Cooking oil,Vegan,180ml,87,2024-02-07,84,Active
+Vinamilk,Cooking oil,Vegan,500ml,230,2024-03-26,36,Active
+Neptune,Instant noodle,Chicken,50g,104,2024-02-27,64,Active
+Sabeco,Instant noodle,Vegetarian,2L,281,2024-03-02,60,Active
+Tan Hiep Phat,Milk,Condensed,5L,166,2024-02-18,73,Active
+Bibica,Milk,Sweetened,380g,1064,2023-10-04,210,Dead stock
+Sabeco,Instant noodle,Beef,1L,337,2024-04-06,25,Active
+Orion,Soft drink,Lemon soda,200g,183,2024-04-08,23,Active
+Orion,Cooking oil,Vegan,500g,122,2023-12-06,147,Slow moving
+TH True Milk,Cooking oil,Vegetable,200g,1186,2023-09-28,216,Dead stock
+Vinamilk,Cooking oil,Olive,180ml,197,2024-02-10,81,Active
+Orion,Soft drink,Energy drink,180ml,208,2024-04-01,30,Active
+Nestle,Instant noodle,Chicken,200g,309,2024-04-14,17,Active
+Pepsi,Milk,Condensed,200g,301,2024-02-26,65,Active
+Coca-Cola,Soft drink,Cola,1L,1074,2023-03-19,409,Dead stock
+Tan Hiep Phat,Candy,Hard candy,1L,285,2023-12-29,124,Slow moving
+Tan Hiep Phat,Milk,Low fat,180ml,736,2023-06-18,318,Dead stock
+Orion,Candy,Hard candy,380g,340,2024-02-03,88,Active
+Kinh Do,Soft drink,Lemon soda,200g,696,2023-04-01,396,Dead stock
+Pepsi,Instant noodle,Chicken,5L,997,2023-04-03,394,Dead stock
+Pepsi,Milk,Unsweetened,330ml,190,2024-04-08,23,Active
+Masan,Soft drink,Cola,100g,336,2024-02-12,79,Active
+Bibica,Soft drink,Lemon soda,100g,388,2023-12-19,134,Slow moving
+Masan,Cooking oil,Vegetable,330ml,83,2024-04-18,13,Active
+Kinh Do,Soft drink,Cola,500g,105,2024-02-26,65,Active
+Tan Hiep Phat,Soft drink,Energy drink,500g,819,2023-05-18,349,Dead stock
+Sabeco,Candy,Fruit flavored,180ml,308,2024-02-09,82,Active
+Pepsi,Instant noodle,Chicken,5L,710,2023-11-02,181,Dead stock
+Pepsi,Instant noodle,Spicy,1L,243,2024-03-14,48,Active
+Bibica,Instant noodle,Beef,500g,299,2024-02-10,81,Active
+Kinh Do,Soft drink,Lemon soda,500g,1149,2023-05-11,356,Dead stock
+Bibica,Candy,Gummy,1L,305,2024-02-05,86,Active
+Tan Hiep Phat,Soft drink,Green tea,100g,1178,2023-04-30,367,Dead stock
+Coca-Cola,Instant noodle,Chicken,500g,377,2024-04-06,25,Active
+Orion,Instant noodle,Vegetarian,100g,749,2023-06-29,307,Dead stock
+Kinh Do,Milk,Vegan,500g,214,2024-03-16,46,Active
+Bibica,Milk,Sweetened,500g,337,2024-03-23,39,Active
+Nestle,Soft drink,Lemon soda,380g,503,2023-08-14,261,Dead stock
+Sabeco,Candy,Hard candy,380g,306,2024-03-08,54,Active
+Kinh Do,Instant noodle,Beef,500g,595,2023-06-14,322,Dead stock
+Orion,Soft drink,Cola,330ml,578,2023-07-24,282,Dead stock
+Kinh Do,Instant noodle,Spicy,380g,99,2023-11-13,170,Slow moving
+Vinamilk,Soft drink,Green tea,380g,1127,2023-07-15,291,Dead stock
+Neptune,Milk,Unsweetened,500g,300,2024-03-19,43,Active
+Sabeco,Milk,Vegan,180ml,953,2023-05-27,340,Dead stock
+Pepsi,Instant noodle,Beef,50g,149,2024-03-14,48,Active
+Sabeco,Milk,Vegan,1L,432,2022-12-24,494,Dead stock
+Pepsi,Milk,Low fat,180ml,316,2023-11-24,159,Slow moving
+Orion,Cooking oil,Vegan,1L,117,2024-02-05,86,Active
+Kinh Do,Soft drink,Energy drink,2L,968,2023-04-16,381,Dead stock
+Orion,Soft drink,Cola,5L,798,2023-05-15,352,Dead stock
+Sabeco,Soft drink,Energy drink,180ml,1074,2023-01-03,484,Dead stock
+Orion,Cooking oil,Vegetable,5L,58,2024-03-07,55,Active
+Nestle,Soft drink,Cola,180ml,1087,2023-04-29,368,Dead stock
+Tan Hiep Phat,Milk,Vegan,180ml,1109,2023-09-26,218,Dead stock
+Kinh Do,Milk,Low fat,500g,374,2024-01-01,121,Slow moving
+Neptune,Cooking oil,Vegan,500ml,193,2024-03-25,37,Active
+Coca-Cola,Candy,Fruit flavored,500g,199,2024-03-15,47,Active
+Bibica,Cooking oil,Vegetable,1L,212,2024-02-13,78,Active
+Nestle,Instant noodle,Spicy,50g,91,2024-04-09,22,Active
+Nestle,Candy,Hard candy,180ml,183,2024-04-23,8,Active
+Tan Hiep Phat,Candy,Hard candy,50g,580,2023-03-28,400,Dead stock
+Masan,Milk,Condensed,500ml,1082,2023-08-27,248,Dead stock
+Tan Hiep Phat,Instant noodle,Chicken,180ml,352,2024-03-08,54,Active
+Orion,Milk,Unsweetened,100g,244,2024-02-05,86,Active
+Neptune,Cooking oil,Vegetable,50g,210,2023-11-05,178,Slow moving
+Kinh Do,Soft drink,Green tea,200g,314,2024-03-30,32,Active
+Sabeco,Cooking oil,Vegetable,500g,365,2024-01-15,107,Slow moving
+Vinamilk,Milk,Low fat,200g,588,2023-07-11,295,Dead stock
+Tan Hiep Phat,Soft drink,Lemon soda,50g,992,2023-03-28,400,Dead stock
+Coca-Cola,Milk,Unsweetened,200g,878,2022-12-26,492,Dead stock
+TH True Milk,Cooking oil,Sunflower,5L,334,2024-03-28,34,Active
+Sabeco,Instant noodle,Beef,330ml,148,2024-02-07,84,Active
+TH True Milk,Cooking oil,Sunflower,2L,368,2023-10-04,210,Dead stock
+TH True Milk,Cooking oil,Olive,50g,565,2023-05-30,337,Dead stock
+Bibica,Milk,Condensed,1L,346,2024-04-13,18,Active
+Orion,Cooking oil,Vegetable,200g,673,2023-09-05,239,Dead stock
+TH True Milk,Candy,Hard candy,50g,354,2024-02-19,72,Active
+Bibica,Milk,Vegan,2L,438,2023-03-24,404,Dead stock
+Orion,Instant noodle,Spicy,500ml,122,2024-03-26,36,Active
+Masan,Cooking oil,Vegan,1L,100,2024-04-07,24,Active
+Coca-Cola,Milk,Low fat,5L,1113,2023-09-29,215,Dead stock
+Sabeco,Instant noodle,Spicy,500ml,72,2024-04-05,26,Active
+Coca-Cola,Instant noodle,Spicy,200g,78,2024-02-25,66,Active
+Kinh Do,Soft drink,Energy drink,380g,617,2023-09-03,241,Dead stock
+Bibica,Milk,Sweetened,500ml,364,2024-03-31,31,Active
+Coca-Cola,Cooking oil,Sunflower,500ml,209,2024-02-21,70,Active
+Vinamilk,Milk,Vegan,330ml,693,2023-07-03,303,Dead stock
+Sabeco,Candy,Hard candy,380g,72,2024-04-11,20,Active
+Orion,Cooking oil,Sunflower,180ml,455,2023-04-10,387,Dead stock
+Kinh Do,Soft drink,Cola,500ml,704,2023-03-14,414,Dead stock
+Neptune,Cooking oil,Olive,380g,657,2023-08-23,252,Dead stock
+TH True Milk,Cooking oil,Vegan,500g,285,2024-04-15,16,Active
+TH True Milk,Candy,Hard candy,2L,300,2024-01-13,109,Slow moving
+Nestle,Candy,Gummy,330ml,1081,2023-08-06,269,Dead stock
+Pepsi,Soft drink,Cola,100g,714,2022-12-29,489,Dead stock
+Tan Hiep Phat,Instant noodle,Chicken,380g,145,2023-12-07,146,Slow moving
+Orion,Cooking oil,Vegan,2L,308,2024-04-14,17,Active
+Vinamilk,Cooking oil,Vegetable,1L,122,2024-03-05,57,Active
+Kinh Do,Milk,Sweetened,50g,269,2024-03-04,58,Active
+Sabeco,Soft drink,Orange soda,500ml,391,2023-12-13,140,Slow moving
+Coca-Cola,Cooking oil,Vegan,100g,443,2023-04-09,388,Dead stock
+Tan Hiep Phat,Instant noodle,Spicy,50g,1194,2023-06-17,319,Dead stock
+Masan,Soft drink,Cola,200g,82,2024-02-16,75,Active
+Sabeco,Candy,Chocolate,2L,182,2024-04-02,29,Active
+Masan,Cooking oil,Olive,50g,157,2024-04-04,27,Active
+Coca-Cola,Soft drink,Cola,380g,55,2024-02-06,85,Active
+Nestle,Cooking oil,Olive,500g,57,2024-03-20,42,Active
+Neptune,Milk,Unsweetened,100g,368,2024-02-25,66,Active
+Pepsi,Cooking oil,Vegetable,2L,1106,2023-10-20,194,Dead stock
+Orion,Instant noodle,Beef,100g,358,2024-03-12,50,Active
+Orion,Soft drink,Lemon soda,100g,228,2023-11-16,167,Slow moving
+TH True Milk,Candy,Chocolate,330ml,230,2024-03-14,48,Active
+Coca-Cola,Cooking oil,Olive,1L,1044,2023-07-05,301,Dead stock
+Vinamilk,Instant noodle,Spicy,380g,177,2023-12-24,129,Slow moving
+Coca-Cola,Milk,Unsweetened,500ml,149,2024-04-24,7,Active
+Sabeco,Soft drink,Green tea,2L,1056,2023-09-21,223,Dead stock
+Kinh Do,Cooking oil,Vegetable,2L,104,2023-12-16,137,Slow moving
+Orion,Cooking oil,Vegan,5L,109,2024-02-26,65,Active
+Coca-Cola,Milk,Sweetened,380g,465,2023-08-10,265,Dead stock
+Masan,Instant noodle,Chicken,330ml,257,2024-03-20,42,Active
+Sabeco,Cooking oil,Vegan,380g,396,2024-03-10,52,Active
+Vinamilk,Cooking oil,Vegan,380g,350,2024-02-19,72,Active
+Kinh Do,Soft drink,Green tea,50g,379,2023-10-29,185,Dead stock
+TH True Milk,Cooking oil,Vegan,100g,168,2023-11-11,172,Slow moving
+Bibica,Cooking oil,Vegetable,200g,361,2024-04-03,28,Active
+Tan Hiep Phat,Milk,Sweetened,330ml,1170,2023-01-09,478,Dead stock
+Nestle,Cooking oil,Vegan,180ml,264,2024-02-27,64,Active
+Pepsi,Instant noodle,Spicy,50g,90,2024-04-10,21,Active
+Vinamilk,Cooking oil,Olive,50g,313,2023-11-20,163,Slow moving
+Pepsi,Instant noodle,Beef,500ml,878,2023-11-01,182,Dead stock
+Pepsi,Soft drink,Green tea,5L,279,2024-03-06,56,Active
+Bibica,Soft drink,Cola,500ml,585,2023-01-22,465,Dead stock
+Coca-Cola,Cooking oil,Sunflower,500ml,108,2024-02-17,74,Active
+Orion,Cooking oil,Vegan,1L,125,2023-12-27,126,Slow moving
+Sabeco,Soft drink,Energy drink,180ml,143,2024-01-18,104,Slow moving
+Bibica,Milk,Low fat,500ml,1056,2023-06-27,309,Dead stock
+TH True Milk,Soft drink,Orange soda,330ml,363,2024-02-19,72,Active
+Neptune,Soft drink,Energy drink,5L,874,2023-09-13,231,Dead stock
+Kinh Do,Instant noodle,Chicken,330ml,343,2024-03-03,59,Active
+Orion,Instant noodle,Chicken,100g,597,2023-07-25,281,Dead stock
+Pepsi,Milk,Condensed,200g,548,2023-10-19,195,Dead stock
+Masan,Instant noodle,Chicken,500g,368,2024-02-04,87,Active
+Sabeco,Instant noodle,Beef,50g,208,2024-02-14,77,Active
+Nestle,Candy,Hard candy,50g,56,2024-03-27,35,Active
+Neptune,Candy,Fruit flavored,330ml,106,2024-01-24,98,Slow moving
+Coca-Cola,Cooking oil,Vegetable,1L,449,2023-09-14,230,Dead stock
+Bibica,Cooking oil,Sunflower,380g,348,2023-12-15,138,Slow moving
+Orion,Milk,Unsweetened,180ml,865,2023-01-08,479,Dead stock
+Sabeco,Candy,Gummy,5L,399,2024-04-03,28,Active
+Pepsi,Cooking oil,Olive,500g,284,2024-02-21,70,Active
+TH True Milk,Milk,Vegan,500ml,565,2023-07-22,284,Dead stock
+Nestle,Milk,Low fat,100g,750,2023-09-25,219,Dead stock
+Coca-Cola,Instant noodle,Spicy,500g,156,2024-04-04,27,Active
+Pepsi,Instant noodle,Spicy,500g,70,2024-03-18,44,Active
+Bibica,Milk,Condensed,50g,291,2024-03-29,33,Active
+Sabeco,Soft drink,Green tea,500g,570,2023-05-07,360,Dead stock
+Tan Hiep Phat,Milk,Sweetened,1L,318,2024-03-11,51,Active
+Pepsi,Candy,Fruit flavored,500g,171,2024-02-18,73,Active
+Sabeco,Candy,Hard candy,200g,446,2023-08-15,260,Dead stock
+TH True Milk,Instant noodle,Vegetarian,100g,323,2023-08-24,251,Dead stock
+Kinh Do,Instant noodle,Spicy,330ml,364,2024-04-12,19,Active
+Kinh Do,Candy,Fruit flavored,200g,389,2023-12-10,143,Slow moving
+Masan,Milk,Unsweetened,500ml,389,2023-11-16,167,Slow moving
+TH True Milk,Milk,Vegan,380g,149,2024-04-07,24,Active
+Vinamilk,Instant noodle,Vegetarian,50g,129,2024-03-06,56,Active
+TH True Milk,Candy,Fruit flavored,200g,111,2024-04-09,22,Active
+TH True Milk,Instant noodle,Beef,180ml,117,2024-03-23,39,Active
+Coca-Cola,Milk,Condensed,5L,1078,2022-12-22,496,Dead stock
+Orion,Milk,Vegan,5L,384,2024-02-04,87,Active
+TH True Milk,Instant noodle,Chicken,100g,224,2023-12-13,140,Slow moving
+TH True Milk,Instant noodle,Spicy,1L,307,2024-02-18,73,Active
+Sabeco,Soft drink,Energy drink,500ml,949,2023-03-28,400,Dead stock
+Bibica,Candy,Chocolate,50g,144,2023-11-16,167,Slow moving
+Masan,Instant noodle,Spicy,380g,394,2024-03-30,32,Active
+Tan Hiep Phat,Instant noodle,Spicy,5L,940,2023-06-26,310,Dead stock
+Coca-Cola,Instant noodle,Vegetarian,500g,75,2023-12-27,126,Slow moving
+Sabeco,Milk,Sweetened,500ml,192,2024-04-12,19,Active
+Tan Hiep Phat,Soft drink,Green tea,50g,361,2024-04-21,10,Active
+Orion,Milk,Condensed,200g,838,2023-03-05,423,Dead stock
+TH True Milk,Cooking oil,Sunflower,330ml,346,2023-12-10,143,Slow moving
+TH True Milk,Soft drink,Green tea,500ml,390,2022-12-28,490,Dead stock
+Pepsi,Soft drink,Green tea,380g,182,2024-02-21,70,Active
+Orion,Soft drink,Green tea,50g,372,2024-04-05,26,Active
+Masan,Cooking oil,Vegetable,500ml,361,2024-02-18,73,Active
+Orion,Soft drink,Cola,5L,445,2023-01-20,467,Dead stock
+Kinh Do,Milk,Condensed,50g,142,2023-12-10,143,Slow moving
+Sabeco,Candy,Hard candy,2L,307,2024-03-10,52,Active
+Kinh Do,Cooking oil,Olive,180ml,124,2024-02-16,75,Active
+TH True Milk,Milk,Low fat,200g,237,2024-03-12,50,Active
+Coca-Cola,Milk,Condensed,50g,301,2023-06-27,309,Dead stock
+Masan,Cooking oil,Sunflower,180ml,373,2023-12-30,123,Slow moving
+Orion,Cooking oil,Vegetable,5L,248,2024-02-17,74,Active
+Coca-Cola,Soft drink,Orange soda,100g,470,2023-01-28,459,Dead stock
+Sabeco,Milk,Condensed,380g,917,2023-02-11,445,Dead stock
+Bibica,Instant noodle,Vegetarian,500ml,156,2024-04-16,15,Active
+Tan Hiep Phat,Instant noodle,Beef,380g,288,2024-02-13,78,Active
+Coca-Cola,Cooking oil,Vegan,2L,212,2023-11-19,164,Slow moving
+Neptune,Instant noodle,Vegetarian,100g,51,2024-02-29,62,Active
+TH True Milk,Soft drink,Energy drink,200g,1001,2023-10-19,195,Dead stock
+Kinh Do,Cooking oil,Olive,2L,187,2023-11-08,175,Slow moving
+Sabeco,Milk,Unsweetened,1L,346,2024-04-17,14,Active
+Vinamilk,Soft drink,Green tea,100g,105,2024-02-04,87,Active
+Sabeco,Candy,Fruit flavored,500ml,752,2023-10-12,202,Dead stock
+Kinh Do,Milk,Low fat,180ml,328,2023-11-23,160,Slow moving
+Tan Hiep Phat,Milk,Condensed,2L,843,2023-07-01,305,Dead stock
+Coca-Cola,Milk,Sweetened,500ml,367,2023-07-04,302,Dead stock
+Neptune,Soft drink,Green tea,5L,182,2024-04-11,20,Active
+Masan,Instant noodle,Spicy,100g,325,2024-03-21,41,Active
+Pepsi,Candy,Hard candy,100g,304,2024-04-08,23,Active
+Tan Hiep Phat,Instant noodle,Beef,100g,184,2024-04-09,22,Active
+TH True Milk,Soft drink,Orange soda,200g,1140,2023-03-14,414,Dead stock
+Kinh Do,Milk,Low fat,100g,166,2024-02-13,78,Active
+Sabeco,Candy,Chocolate,2L,827,2023-09-30,214,Dead stock
+Vinamilk,Instant noodle,Chicken,380g,90,2024-02-09,82,Active
+Kinh Do,Milk,Unsweetened,50g,419,2023-06-29,307,Dead stock
+Kinh Do,Instant noodle,Vegetarian,5L,441,2023-04-19,378,Dead stock
+Orion,Instant noodle,Spicy,50g,542,2023-08-30,245,Dead stock
+Coca-Cola,Cooking oil,Olive,5L,366,2024-04-05,26,Active
+TH True Milk,Soft drink,Orange soda,380g,454,2023-06-15,321,Dead stock
+Nestle,Milk,Condensed,380g,624,2023-03-20,408,Dead stock
+Masan,Milk,Low fat,100g,701,2023-02-12,444,Dead stock
+Kinh Do,Milk,Low fat,330ml,1009,2023-09-28,216,Dead stock
+Masan,Candy,Gummy,1L,123,2024-03-07,55,Active
+Masan,Instant noodle,Chicken,330ml,393,2024-04-03,28,Active
+Orion,Candy,Hard candy,200g,914,2023-08-31,244,Dead stock
+Sabeco,Milk,Sweetened,330ml,278,2024-02-04,87,Active
+Coca-Cola,Candy,Hard candy,180ml,63,2024-02-10,81,Active
+Sabeco,Instant noodle,Spicy,2L,963,2023-09-15,229,Dead stock
+Masan,Soft drink,Orange soda,50g,337,2023-12-27,126,Slow moving
+Vinamilk,Milk,Vegan,500g,311,2023-11-26,157,Slow moving
+Pepsi,Milk,Low fat,100g,397,2023-11-07,176,Slow moving
+Kinh Do,Instant noodle,Spicy,2L,961,2023-04-15,382,Dead stock
+Tan Hiep Phat,Soft drink,Orange soda,5L,559,2023-06-20,316,Dead stock
+Masan,Candy,Fruit flavored,1L,162,2024-04-06,25,Active
+Masan,Milk,Sweetened,5L,484,2023-08-27,248,Dead stock
+Kinh Do,Milk,Low fat,1L,279,2024-03-24,38,Active
+Neptune,Soft drink,Green tea,180ml,755,2023-04-01,396,Dead stock
+Pepsi,Soft drink,Energy drink,180ml,383,2024-03-27,35,Active
+Nestle,Milk,Sweetened,500g,418,2023-08-13,262,Dead stock
+Pepsi,Instant noodle,Vegetarian,5L,190,2024-02-16,75,Active
+Vinamilk,Milk,Condensed,2L,477,2023-05-29,338,Dead stock
+Masan,Instant noodle,Spicy,200g,101,2023-12-21,132,Slow moving
+Masan,Soft drink,Energy drink,1L,137,2024-02-19,72,Active
+TH True Milk,Instant noodle,Chicken,5L,261,2024-03-14,48,Active
+Masan,Cooking oil,Vegetable,380g,1159,2023-10-24,190,Dead stock
+Nestle,Candy,Gummy,1L,76,2024-02-16,75,Active
+TH True Milk,Candy,Chocolate,5L,1051,2023-05-12,355,Dead stock
+Tan Hiep Phat,Cooking oil,Vegan,330ml,110,2024-04-08,23,Active
+Orion,Cooking oil,Olive,330ml,1142,2023-06-18,318,Dead stock
