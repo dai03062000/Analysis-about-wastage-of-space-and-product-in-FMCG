@@ -39,6 +39,12 @@ Analysis of 500 SKUs across 5 product categories revealed the following:
   Space waste:
   Wasted units (dead + slow): 148016
   Wasted percentage: 72.3%
+  
+![Overview](chart_overview.png)
+
+![Dead Stock by Category](chart_dead_by_category.png)
+
+![Space Waste](chart_space_waste.png)
 
 ## Insights
 
